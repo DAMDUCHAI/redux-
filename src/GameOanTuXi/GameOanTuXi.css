@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'fontGame';
+    src: url('../font/Pony.ttf');
+}
+.game{
+    background-image: url('../assets/bgGameOanTuXi.png');
+    width: 100%;
+    position: fixed;
+    font-family: 'fontGame';
+    height: 100%;
+}
+
+.infor-game{
+    margin-top: 130px;
+}
+span{
+    color: sandybrown;
+}
+h3{
+    color: violet;
+}
